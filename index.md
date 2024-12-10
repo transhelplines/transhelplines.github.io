@@ -20,7 +20,7 @@
 
 🇨🇦 **[LGBT YouthLine](https://www.youthline.ca/helpline/peer-support-helpline/)** (Ontario): no phone line; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30 in Ontario, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
 
-🇨🇦 *More resources in Canada listed **[here](https://www.youthline.ca/helpline/other-helplines/).***
+*More resources in Canada listed **[here](https://www.youthline.ca/helpline/other-helplines/).***
 
 ## United Kingdom
 
