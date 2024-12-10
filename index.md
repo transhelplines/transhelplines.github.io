@@ -1,20 +1,24 @@
 # International support phone lines for trans people
 
-🇺🇸 [Trans Lifeline U.S.](https://translifeline.org/hotline/): [1-877-565-8860](tel:18775658860) (in English & en español), operating hours listed [here](https://translifeline.org/hotline/)
+🇺🇸 [Trans Lifeline U.S.](https://translifeline.org/hotline/) (United States): [1-877-565-8860](tel:18775658860) (in English & en español), operating hours listed [here](https://translifeline.org/hotline/)
 
-🇨🇦 [Trans Lifeline Canada](https://translifeline.org/hotline/): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
+🇺🇸 [The Trevor Project](https://www.thetrevorproject.org/get-help/) (United States): call [1-866-488-7386](tel:18664887386) or text [678-678](sms:678678), available 24 hours a day — [web chat](https://www.thetrevorproject.org/get-help/) also available
+
+🇨🇦 [Trans Lifeline Canada](https://translifeline.org/hotline/) (Canada): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
 ⚜️ [Aide aux Trans du Québec (ATQ)](https://aideauxtrans.com/en) (Québec): [1-855-909-9038, ext. 1](tel:18559099038) (en français & in English), disponible 24 heures par jour/available 24 hours a day 
 
-🇬🇧 National Trans 24h Helpline (UK): [07527 524034](tel:07527524034)  
+🇬🇧 National Trans 24h Helpline (United Kingdom): [07527 524034](tel:07527524034)  
 
-🇬🇧 [MindLine Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) (UK): [0117 980 0381](tel:01179800381), operating hours listed [here](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/)  
+🇬🇧 [MindLine Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) (United Kingdom): [0117 980 0381](tel:01179800381), operating hours listed [here](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/)  
 
-🇬🇧 [LGBT+ Helpline Scotland](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) (UK): [0800 464 7000](tel:08004647000), operating hours listed [here](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) — [web chat](https://www.lgbthealth.org.uk/) also available
+🇬🇧 [Switchboard](https://switchboard.lgbt/): [0800 0119 100](tel:08000119100), available from 10am to 10pm every day
 
-🇬🇧 [LGBT Youth Scotland](https://lgbtyouth.org.uk/get-support/) (UK): [web chat](https://lgbtyouth.org.uk/get-support/live-chat/) only, Monday 4pm-6pm, Wednesday and Thursday 4pm-8pm, intended for people ages 13 to 25
+🇬🇧 [LGBT+ Helpline Scotland](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) (United Kingdom): [0800 464 7000](tel:08004647000), operating hours listed [here](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) — [web chat](https://www.lgbthealth.org.uk/) also available
+
+🇬🇧 [LGBT Youth Scotland](https://lgbtyouth.org.uk/get-support/) (United Kingdom): [web chat](https://lgbtyouth.org.uk/get-support/live-chat/) only, available Monday from 4pm to 6pm and Wednesday and Thursday from 4pm to 8pm, intended for people ages 13 to 25
 
 🇮🇪 [The LGBT Helpline](https://lgbt.ie/contact-us/) (Ireland): [1890 929 539](tel:1890929539), available Monday to Thursday from 6:30pm to 10pm, Friday from 4pm to 10pm, and Saturday and Sunday from 4pm to 6pm
 
