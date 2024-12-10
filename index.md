@@ -14,7 +14,7 @@
 
 🇨🇦 [LGBT National Hotline](https://lgbthotline.org/national-hotline/) (Canada): [1-888-843-4564](tel:18888434564), operating hours listed [here](https://lgbthotline.org/national-hotline/)
 
-🇨🇦 [LGBT Youthline](https://www.youthline.ca/helpline/peer-support-helpline/) (Ontario): no phone line; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
+🇨🇦 [LGBT YouthLine](https://www.youthline.ca/helpline/peer-support-helpline/) (Ontario): no phone line; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
