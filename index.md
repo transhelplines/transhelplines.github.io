@@ -8,11 +8,13 @@
 
 🇨🇦 [Trans Lifeline Canada](https://translifeline.org/hotline/) (Canada): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
 
-🇨🇦 [LGBT Youthline] (Ontario): no phoneline; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/helpline/peer-support-helpline/) (Ontario): no phoneline; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
 ⚜️ [Aide aux Trans du Québec (ATQ)](https://aideauxtrans.com/en) (Québec): [1-855-909-9038, ext. 1](tel:18559099038) (en français & in English), disponible 24 heures par jour/available 24 hours a day 
+
+🇨🇦 *More resources in Canada listed [here](https://www.youthline.ca/helpline/other-helplines/).*
 
 🇬🇧 National Trans 24h Helpline (United Kingdom): [07527 524034](tel:07527524034)  
 
@@ -31,3 +33,5 @@
 🇳🇿 [OUTLine](https://outline.org.nz/) (New Zealand): [0800 688 5463](tel:08006885463), open every day from 6pm to 9pm — [web chat](https://outline.org.nz/chat/) also available
 
 🇳🇿 [Gender Minorites Aotearoa](https://genderminorities.com/peer-support/) (New Zealand): peer support via online video call [by appointment](https://genderminorities.com/peer-support/)
+
+*For more support lines in more countries, try **[findahelpline.com](https://findahelpline.com/)***
