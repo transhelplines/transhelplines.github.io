@@ -6,7 +6,7 @@
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
-⚜️ [Aide aux Trans du Québec (ATQ)](https://aideauxtrans.com/en) (Québec): [1-855-909-9038, extension 1](tel:18559099038) (en français & in English), disponible 24 heures par jour/available 24 hours a day 
+⚜️ [Aide aux Trans du Québec (ATQ)](https://aideauxtrans.com/en) (Québec): [1-855-909-9038, ext. 1](tel:18559099038) (en français & in English), disponible 24 heures par jour/available 24 hours a day 
 
 🇬🇧 National Trans 24h Helpline (UK): [07527 524034](tel:07527524034)  
 
