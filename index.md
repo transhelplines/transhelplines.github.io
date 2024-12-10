@@ -8,7 +8,7 @@
 
 🇨🇦 [Trans Lifeline Canada](https://translifeline.org/hotline/) (Canada): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
 
-🇨🇦 [LGBT Youthline](https://www.youthline.ca/helpline/peer-support-helpline/) (Ontario): no phoneline; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/helpline/peer-support-helpline/) (Ontario): no phone line; support via text message at [647-694-4275](sms:6476944275) or via [web chat](https://www.youthline.ca/helpline/peer-support-helpline/), intended for people under 30, operating hours listed [here](https://www.youthline.ca/helpline/peer-support-helpline/)
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
@@ -16,11 +16,11 @@
 
 🇨🇦 *More resources in Canada listed [here](https://www.youthline.ca/helpline/other-helplines/).*
 
-🇬🇧 National Trans 24h Helpline (United Kingdom): [07527 524034](tel:07527524034)  
-
 🇬🇧 [MindLine Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) (United Kingdom): [0117 980 0381](tel:01179800381), operating hours listed [here](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/)  
 
 🇬🇧 [Switchboard](https://switchboard.lgbt/) (United Kingdom): [0800 0119 100](tel:08000119100), available from 10am to 10pm every day — web chat also available
+
+🇬🇧 National Trans 24h Helpline (United Kingdom): [07527 524034](tel:07527524034) *[Note: It's not clear whether this line is still operating.]*
 
 🇬🇧 [LGBT+ Helpline Scotland](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) (United Kingdom): [0800 464 7000](tel:08004647000), operating hours listed [here](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) — [web chat](https://www.lgbthealth.org.uk/) also available
 
