@@ -6,4 +6,4 @@ The webpage is written as a markdown (.md) file, which GitHub Pages turns into a
 
 Feel free to fork this repository or suggest improvements. 
 
-Everything is licensed under CC0 1.0 Universal, which allows you to use and modify it without attribution.
+Everything is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), which allows you to use and modify it without attribution.
