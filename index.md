@@ -2,7 +2,7 @@
 
 ## United States
 
-🇺🇸 **[Trans Lifeline U.S.](https://translifeline.org/hotline/)** (United States): [1-877-565-8860](tel:18775658860) (in English & en español), operating hours listed [here](https://translifeline.org/hotline/)
+🇺🇸 **[Trans Lifeline](https://translifeline.org/hotline/)** (United States): [1-877-565-8860](tel:18775658860) (in English & en español), operating hours listed [here](https://translifeline.org/hotline/)
 
 🇺🇸 **[The Trevor Project](https://www.thetrevorproject.org/get-help/)** (United States): call [1-866-488-7386](tel:18664887386) or text [678-678](sms:678678), available 24 hours a day — [web chat](https://www.thetrevorproject.org/get-help/) also available
 
@@ -10,7 +10,7 @@
 
 ## Canada
 
-🇨🇦 **[Trans Lifeline Canada](https://translifeline.org/hotline/)** (Canada): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
+🇨🇦 **[Trans Lifeline](https://translifeline.org/hotline/)** (Canada): [1-877-330-6366](tel:18773306366), operating hours listed [here](https://translifeline.org/hotline/)
 
 🇨🇦 **[LGBT National Hotline](https://lgbthotline.org/national-hotline/)** (Canada): [1-888-843-4564](tel:18888434564), operating hours listed [here](https://lgbthotline.org/national-hotline/)
 
