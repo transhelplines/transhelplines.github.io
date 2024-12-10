@@ -1,6 +1,6 @@
 This is the GitHub repository for the webpage https://transhelplines.github.io/
 
-That webpage uses GitHub Pages.
+That webpage uses GitHub Pages. The webpage is written as a markdown (.md) file, which GitHub Pages turns into a webpage. 
 
 Feel free to fork this project or suggest improvements. 
 
