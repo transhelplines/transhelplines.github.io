@@ -6,6 +6,8 @@
 
 ⚜️ [Interligne](https://interligne.co/) (Québec): [1-888-505-1010](tel:18885051010) (en français & in English), disponible 24 heures par jour/available 24 hours a day — [chat en ligne](https://interligne.co/) également disponible/[web chat](https://interligne.co/en/) also available  
 
+⚜️ [Aide aux Trans du Québec (ATQ)](https://aideauxtrans.com/en) (Québec): [1-855-909-9038, extension 1](tel:18559099038) (en français & in English), disponible 24 heures par jour/available 24 hours a day 
+
 🇬🇧 National Trans 24h Helpline (UK): [07527 524034](tel:07527524034)  
 
 🇬🇧 [MindLine Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) (UK): [0117 980 0381](tel:01179800381), operating hours [here](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/)  
@@ -15,3 +17,5 @@
 🇦🇺 [QLife](https://qlife.org.au/contact-us) (Australia): [1800 184 527](tel:1800184527)[,](tel:1800184527) open every day from 3pm to midnight — [web chat](https://qlife.org.au/resources/chat) also available  
 
 🇳🇿 [OUTLine](https://outline.org.nz/) (New Zealand): [0800 688 5463](tel:08006885463), open every day from 6pm to 9pm — [web chat](https://outline.org.nz/chat/) also available
+
+🇳🇿 [Gender Minorites Aotearoa](https://genderminorities.com/peer-support/) (New Zealand): peer support via online video call [by appointment](https://genderminorities.com/peer-support/)
