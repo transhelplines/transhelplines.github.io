@@ -14,7 +14,7 @@
 
 🇬🇧 [MindLine Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) (United Kingdom): [0117 980 0381](tel:01179800381), operating hours listed [here](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/)  
 
-🇬🇧 [Switchboard](https://switchboard.lgbt/): [0800 0119 100](tel:08000119100), available from 10am to 10pm every day
+🇬🇧 [Switchboard](https://switchboard.lgbt/): [0800 0119 100](tel:08000119100), available from 10am to 10pm every day — web chat also available
 
 🇬🇧 [LGBT+ Helpline Scotland](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) (United Kingdom): [0800 464 7000](tel:08004647000), operating hours listed [here](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) — [web chat](https://www.lgbthealth.org.uk/) also available
 
