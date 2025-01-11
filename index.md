@@ -28,6 +28,10 @@
 
 🇬🇧 **[Switchboard](https://switchboard.lgbt/)** (United Kingdom): [0800 0119 100](tel:08000119100), available from 10am to 10pm every day — web chat also available
 
+🇬🇧 **[Brighton & Hove LGBT Switchboard](https://www.switchboard.org.uk/what-we-do/helpline/)** (United Kingdom): [01273 204050](tel:01273204050), open 7:00pm to 9:30pm Mondays to Thursdays — [web chat](https://www.switchboard.org.uk/what-we-do/helpline/) also available
+
+🇬🇧 **[MindOut](https://mindout.org.uk/)** (United Kingdom): [web chat]([https://www.switchboard.org.uk/what-we-do/helpline](https://mindout.org.uk/)/) only, for LGBTQ people age 18 and over, operating hours listed [here](https://mindout.org.uk/)
+
 🇬🇧 **National Trans 24h Helpline** (United Kingdom): [07527 524034](tel:07527524034) *[Note: It's not clear whether this line is still operating.]*
 
 🇬🇧 **[LGBT+ Helpline Scotland](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/)** (United Kingdom): [0800 464 7000](tel:08004647000), operating hours listed [here](https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/) — [web chat](https://www.lgbthealth.org.uk/) also available
