@@ -1,5 +1,13 @@
 # International support phone lines for trans people
 
+## Table of Contents
+- [United States](#united-states)
+- [Canada](#canada)
+- [United Kingdom](#united-kingdom)
+- [Ireland](#ireland)
+- [Australia](#australia)
+- [New Zealand](#new-zealand)
+
 ## United States
 
 🇺🇸 **[Trans Lifeline](https://translifeline.org/hotline/)** (United States): [1-877-565-8860](tel:18775658860) (in English & en español), operating hours listed [here](https://translifeline.org/hotline/)
